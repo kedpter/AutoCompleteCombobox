@@ -1,0 +1,10 @@
+c:\users\alex\documents\visual studio 2015\Projects\AutoCompleteCombobox\AutoCompleteCombobox\bin\Debug\AutoCompleteCombobox.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\AutoCompleteCombobox\AutoCompleteCombobox\bin\Debug\AutoCompleteCombobox.exe
+c:\users\alex\documents\visual studio 2015\Projects\AutoCompleteCombobox\AutoCompleteCombobox\bin\Debug\AutoCompleteCombobox.pdb
+c:\users\alex\documents\visual studio 2015\Projects\AutoCompleteCombobox\AutoCompleteCombobox\bin\Debug\ChnCharInfo.dll
+c:\users\alex\documents\visual studio 2015\Projects\AutoCompleteCombobox\AutoCompleteCombobox\obj\Debug\AutoCompleteCombobox.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\AutoCompleteCombobox\AutoCompleteCombobox\obj\Debug\AutoCompleteCombobox.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2015\Projects\AutoCompleteCombobox\AutoCompleteCombobox\obj\Debug\AutoCompleteCombobox.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2015\Projects\AutoCompleteCombobox\AutoCompleteCombobox\obj\Debug\AutoCompleteCombobox.exe
+c:\users\alex\documents\visual studio 2015\Projects\AutoCompleteCombobox\AutoCompleteCombobox\obj\Debug\AutoCompleteCombobox.pdb
+c:\users\alex\documents\visual studio 2015\Projects\AutoCompleteCombobox\AutoCompleteCombobox\obj\Debug\AutoCompleteCombobox.Form1.resources
